@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25b1a2b3-aa52-4abb-9ddb-e9b7c1b797d1" name="Changes" comment="Modify: change EPE_ENE_all_schemes">
-      <change afterPath="$PROJECT_DIR$/EPE_ENE_all_schemes_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EPE_NN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EPE_NN.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EPE_ENE_all_schemes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EPE_ENE_all_schemes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EPE_ENE_all_schemes_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EPE_ENE_all_schemes_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jefftam1234/EPE_NN.git&quot;,
-    &quot;accountId&quot;: &quot;c34b3c3c-e354-41e0-94de-275009c2fbfe&quot;
+    &quot;accountId&quot;: &quot;5bb5ce43-bc80-4072-aa3a-22f039498486&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,7 +56,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jt/JTDev/EPE_NN&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jt/JTDev/JTFDEngine&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,8 +74,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
-        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +100,12 @@
       <workItem from="1740494048453" duration="24000" />
       <workItem from="1740499462012" duration="4521000" />
       <workItem from="1740504289919" duration="417000" />
+      <workItem from="1742345146209" duration="819000" />
+      <workItem from="1742348624996" duration="65000" />
+      <workItem from="1742348783796" duration="11086000" />
+      <workItem from="1742530377255" duration="43000" />
+      <workItem from="1742721425005" duration="627000" />
+      <workItem from="1742912523416" duration="1244000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
